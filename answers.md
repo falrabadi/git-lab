@@ -56,3 +56,7 @@ nothing to commit, working tree clean
 
 // Answer 11 = Updates were rejected
 
+// Answer 12 = Yes
+
+// Answer 13 = .  ..  .git  .gitignore  README.md
+
